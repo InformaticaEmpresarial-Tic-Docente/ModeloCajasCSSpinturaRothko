@@ -1,6 +1,3 @@
-Aquí tienes una explicación completa para la aplicación de Pintura Rothko de Free Code Camp, con el enlace y detalles adicionales:
-
----
 
 ### Aplicación de Pintura Rothko
 
@@ -15,6 +12,3 @@ Para practicar y mejorar tus habilidades en diseño web, visita la plataforma de
 Además, puedes acceder a todas las soluciones en este PDF:
 [Ver PDF de Soluciones](https://drive.google.com/file/d/1bMqtVNX0k_EfuTS2vJy2Hj72P25qVK0F/view?usp=drive_link)
 
----
-
-¿Te gustaría ajustar algo más o necesitas ayuda adicional?
